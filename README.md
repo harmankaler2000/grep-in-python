@@ -36,3 +36,5 @@ Note: This section is for stages 2 and beyond.
    `app/main.py`.
 1. Commit your changes and run `git push origin master` to submit your solution
    to CodeCrafters. Test output will be streamed to your terminal.
+
+Medium article summarizing my experience - https://medium.com/@harmandeepkaler14/building-my-own-grep-in-python-eb6fac8784e0
